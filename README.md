@@ -2,8 +2,8 @@
 This is a script that searches through posts on Reddit, filters them, and posts the titles or pictures on twitter. The ideal use case is for situations where the actual text of a post isn't neccesary. Some examples are news headlines and infographics. Future iterations may be added as they're created.
 
 Dependancies:
-praw
-twitter
+praw,
+twitter,
 time
 
 How to use:
